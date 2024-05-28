@@ -10,10 +10,11 @@ In general, Emu8086 is easier to use, write code and test program.
 ![Screenshot (3)](https://github.com/tamaraatanasova/8086-Show-Real-Time/blob/main/Screenshot%202024-05-22%20120402.png)
 ![Screenshot (4)](https://github.com/tamaraatanasova/8086-Show-Real-Time/blob/main/Screenshot%202024-05-22%20120352.png)
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
-
 
 [Slavko Srebrenoski ](https://github.com/slavko444)
+
+
+[Tamara Atanasova ](https://github.com/tamaraatanasova)
 
 
 **Subject**
