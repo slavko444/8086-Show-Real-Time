@@ -11,6 +11,8 @@ In general, Emu8086 is easier to use, write code and test program.
 ![Screenshot (4)](https://github.com/slavko444/8086-Show-Real-Time/blob/main/Output.png)
 
 
+**Develop by:**
+
 [Slavko Srebrenoski ](https://github.com/slavko444)
 
 
